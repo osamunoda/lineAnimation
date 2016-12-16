@@ -2,4 +2,4 @@
 Continuous path animation for FileMaker(WebViewer)
 
 Requirement:
-Mac Sierra~  FileMaker version15~
+Mac Sierra~ / FileMaker version15~
