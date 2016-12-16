@@ -1,4 +1,5 @@
 # lineAnimation
 Continuous path animation for FileMaker(WebViewer)
-<<Requirement>>
+
+Requirement:
 Mac Sierra~  FileMaker version15~
